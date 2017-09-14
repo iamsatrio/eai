@@ -9,8 +9,6 @@ class User extends CI_Controller {
 	}
 
   public function login(){
-    $this->load->view('login/index');
+    $this->load->view('user_authentication');
   }
-
-
 }

@@ -3,14 +3,14 @@
 <head>
   <meta charset="UTF-8">
   <title>Login/Sign-In</title>
-  
+
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
   <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css'>
 
       <link rel="stylesheet" href="<?php echo base_url()?>public/login/css/style.css">
 
-  
+
 </head>
 
 <body>
@@ -48,9 +48,9 @@
             <div class="simform__actions">
               <input class="sumbit" name="commit" type="sumbit" value="Create Account" />
               <span class="simform__actions-sidetext">By creating an account you agree to our <a class="special" href="#" target="_blank" role="link">Terms & Privacy</a></span>
-            </div> 
+            </div>
           </form>
-        </div> 
+        </div>
         <div class="logmod__alter">
           <div class="logmod__alter-container">
             <a href="#" class="connect facebook">
@@ -61,7 +61,7 @@
                 <span>Create an account with <strong>Facebook</strong></span>
               </div>
             </a>
-              
+
             <a href="#" class="connect googleplus">
               <div class="connect__icon">
                 <i class="fa fa-google-plus"></i>
@@ -76,7 +76,7 @@
       <div class="logmod__tab lgm-2">
         <div class="logmod__heading">
           <span class="logmod__heading-subtitle">Enter your email and password <strong>to sign in</strong></span>
-        </div> 
+        </div>
         <div class="logmod__form">
           <form accept-charset="utf-8" action="#" class="simform">
             <div class="sminputs">
@@ -95,9 +95,9 @@
             <div class="simform__actions">
               <input class="sumbit" name="commit" type="sumbit" value="Log In" />
               <span class="simform__actions-sidetext"><a class="special" role="link" href="#">Forgot your password?<br>Click here</a></span>
-            </div> 
+            </div>
           </form>
-        </div> 
+        </div>
         <div class="logmod__alter">
           <div class="logmod__alter-container">
             <a href="#" class="connect facebook">
